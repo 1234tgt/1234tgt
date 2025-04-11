@@ -2,6 +2,6 @@
 using namespace std;
 
 int main() {
-cout << "Hatsune Miku" << endL;
+cout << "Hatsune Miku" << endl;
 return 0;
 }
